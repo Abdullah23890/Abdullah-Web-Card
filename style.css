@@ -12,7 +12,8 @@ body{
   height: 740px;
   width: 390px;
   border-radius: 20px;
-  margin: 40px;
+  margin-top: 50px;
+  margin-bottom: 50px;
   background: rgba(20, 20, 20, 0.9);
   border: 2px solid cyan;
   color: white;
